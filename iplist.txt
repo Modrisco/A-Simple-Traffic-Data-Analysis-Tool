@@ -1,0 +1,10 @@
+baidu.com
+tmall.com
+sohu.com
+qq.com
+taobao.com
+weibo.com
+bing.com
+csdn.net
+www.bupt.edu.cn
+qmplus.qmul.ac.uk
