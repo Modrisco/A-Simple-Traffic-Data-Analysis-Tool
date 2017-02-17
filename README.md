@@ -8,6 +8,6 @@ various categories such as type of application, geographical locations etc. Data
 such as ping and traceroute although a tool (e.g. a batch script at a minimum) that can automate the bulk-collection
 and processing of data should be developed.
 This project includes:
-1.a batch script to catch traffic data
-2.use python to deal with the collected data
-3.use gnuplot to draw pictures and show to the users
+<br>1.a batch script to catch traffic data
+<br>2.use python to deal with the collected data
+<br>3.use gnuplot to draw pictures and show to the users
