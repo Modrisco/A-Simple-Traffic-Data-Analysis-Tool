@@ -1,10 +1,5 @@
 baidu.com
-tmall.com
-sohu.com
-qq.com
 taobao.com
 weibo.com
-bing.com
-csdn.net
+qq.com
 www.bupt.edu.cn
-qmplus.qmul.ac.uk
